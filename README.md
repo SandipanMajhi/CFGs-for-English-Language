@@ -1,4 +1,4 @@
-# CFG-for-English-Language
+# CFG for English Language
 
 This program designs context free grammars for english. The grammars include adjectives, verbs, pronouns, clauses, questions and tenses.
 
